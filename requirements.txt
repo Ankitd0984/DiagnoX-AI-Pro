@@ -1,0 +1,18 @@
+# DiagnoX AI Pro - Python dependencies
+
+# Main Flask application
+Flask
+
+# Data handling and machine learning
+numpy
+pandas
+scikit-learn
+
+# Alternative Streamlit interfaces (app2.py and app3.py)
+streamlit
+fpdf2
+
+# Evaluation notebook / visualizations
+matplotlib
+seaborn
+joblib
